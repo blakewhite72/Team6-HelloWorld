@@ -1,5 +1,2 @@
 # Team6-HelloWorld
-Blake White
-Braden Morehead
-Wei Han
-
+ADDED BRADEN MOREHEAD
